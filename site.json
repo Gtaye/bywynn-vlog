@@ -1,0 +1,13 @@
+{
+  "name": "Bywynn",
+  "tagline": "The room, the people, the night. On record.",
+  "description": "Bywynn: recaps and highlights from every event.",
+  "footer": "Bywynn events, Atlanta. No cookies, no tracking, nothing collected.",
+  "colors": {
+    "background": "#0A0A0A",
+    "card": "#141414",
+    "accent": "#1F1F1F",
+    "primary": "#FFFFFF",
+    "foreground": "#F5F5F5"
+  }
+}

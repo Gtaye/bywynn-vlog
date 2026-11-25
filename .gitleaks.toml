@@ -1,0 +1,11 @@
+title = "event-platform"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Binary fonts and test fixtures contain no secrets"
+paths = [
+  '''site/fonts/.*\.woff2$''',
+  '''build/fixtures/.*\.jpg$''',
+]

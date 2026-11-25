@@ -1,0 +1,13 @@
+{
+  "name": "event-platform",
+  "private": true,
+  "type": "commonjs",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test \"build/**/*.test.js\" \"site/**/*.test.js\"",
+    "build": "node build/build.js",
+    "preview": "node build/serve.js",
+    "new-event": "node build/new-event.js",
+    "copy-event": "node build/new-event.js --copy"
+  }
+}

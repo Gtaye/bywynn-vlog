@@ -1,0 +1,27 @@
+{
+  "slug": "2026-01-10-sample",
+  "title": "Sample Evening",
+  "date": "2026-01-10",
+  "venue": "The Obsidian Room",
+  "eventType": "public",
+  "hero": {
+    "type": "image",
+    "src": "media/2026-01-10-sample/01.jpg"
+  },
+  "summary": "A summary.",
+  "highlights": [
+    "One"
+  ],
+  "attendees": [
+    {
+      "name": "Amara Okafor",
+      "title": "Founder",
+      "org": "Okafor Capital",
+      "consent": true
+    }
+  ],
+  "sponsors": [],
+  "gallery": [
+    "media/2026-01-10-sample/01.jpg"
+  ]
+}
